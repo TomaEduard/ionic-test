@@ -1,0 +1,14 @@
+{
+  "current": "1.5.0",
+  "enabled": true,
+  "majorMsg": {
+  "title": "Important App update",
+  "msg": "Please update your app to the latest version to continue using it.",
+  "btn": "Download"
+  },
+  "minorMsg": {
+  "title": "App update available",
+  "msg": "There's a new version available, would you like to get it now?",
+  "btn": "Download"
+  }
+}
